@@ -45,6 +45,7 @@ button {
 button:hover {
     background-color: darkslategray;
     color: white;
+    outline: 0px;
 }
 
 form {
