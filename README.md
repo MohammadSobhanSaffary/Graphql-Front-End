@@ -1,2 +1,2 @@
 # Graphql-Front-End
-graphql implemented and test
+start first exprience with graphql and implemented with java script 
